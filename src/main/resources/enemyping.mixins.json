@@ -1,0 +1,13 @@
+{
+        "required": true,
+        "minVersion": "0.8",
+        "package": "pl.enemyping.mixin",
+        "compatibilityLevel": "JAVA_21",
+        "client": [
+                "EntityRendererMixin",
+                "AvatarRendererMixin"
+        ],
+        "injectors": {
+                "defaultRequire": 1
+        }
+}

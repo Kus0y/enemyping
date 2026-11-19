@@ -1,0 +1,8 @@
+{
+        "key.enemyping.open": "Otwórz ustawienia Enemy Ping",
+        "key.enemyping.togglemod": "Włącz/wyłącz mod",
+        "key.enemyping.togglenametag": "Ping nad głową gracza wł./wył.",
+        "key.enemyping.togglehud": "Ping na ekranie wł./wył.",
+        "key.enemyping.cycleposition": "Zmień pozycję pingu",
+        "key.category.enemyping.main": "Enemy Ping"
+}

@@ -1,0 +1,8 @@
+{
+        "key.enemyping.open": "Open Enemy Ping settings",
+        "key.enemyping.togglemod": "Toggle mod",
+        "key.enemyping.togglenametag": "Toggle ping on player head",
+        "key.enemyping.togglehud": "Toggle on-screen ping",
+        "key.enemyping.cycleposition": "Cycle ping position",
+        "key.category.enemyping.main": "Enemy Ping"
+}
